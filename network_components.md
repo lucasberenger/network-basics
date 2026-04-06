@@ -18,4 +18,16 @@ Network devices that most people are familiar with are called **end devices**. T
 
 ![End devices illustration](./assets/end-devices.jpg)
 
-A end device is either the source or the destination of a message transmitted over the network. To uniquely identify hosts, addresses are used. When a host initiates communication, it uses the destination address to specify where the message should be sent.
+An end device is either the source or the destination of a message transmitted over the network. To uniquely identify hosts, addresses are used. When a host initiates communication, it uses the destination address to specify where the message should be sent.
+
+### Intermediate Devices
+
+Intermediate devices are responsible for connecting end devices and forwarding data across the network.
+
+![Intermediate devices illustration](./assets/intermediate-devices.jpg)
+
+### Network Media
+
+Network media are the physical or wireless channels used to transmit data between devices in a network.
+
+![Network media illustration](./assets/network-media.jpg)
